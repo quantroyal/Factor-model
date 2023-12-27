@@ -1,3 +1,6 @@
 just a try.
 add a line.
 add xxx.
+first line
+中文加一行也行
+再加一行
